@@ -1,0 +1,35 @@
+body{
+  overflow-x:hidden;
+  box-sizing:border-box;
+}
+h1,h2{
+  text-align:center;
+}
+#image1{
+  width:100vw;
+  height:400px;
+  overflow-x:hidden;
+}
+.bar{
+  margin:12px;
+  text-align:center;
+}
+#barcode{
+  padding:10px;
+  width:200px;
+}
+#submit{
+  padding:10px;
+  font-size:15px;
+  background:blue;
+  color:white;
+}
+#result{
+  border:2px solid black;
+  width:400px;
+  height:100px;
+  text-align:center;
+  font-size:25px;
+  margin:0 auto;
+  padding-top:50px;
+}
